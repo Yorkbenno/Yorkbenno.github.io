@@ -21,7 +21,7 @@ Some of the course reviews are also provided on the USTSPACE website. You need t
 
 ### Fall   
 ```angular2html
-COMP1022P   3   Introduction to Computing with Java
+COMP1022P   3   Introduction to Computing with Java    [Course Review](https://ust.space/review/COMP1022P/view/TIsgbdMf9H348EIq9trMHqDJliTpes8h)
 MATH1013    3   Calculus I B
 COMP2711    4   Discrete Mathematical Tools for Computer Science
 ELEC1100    4   Introduction to Electro-Robot Design
@@ -29,7 +29,7 @@ LANG1002S   3   English for University Studies I
 ```
 ### Spring  
 ```angular2html
-COMP1942    3   Exploring and Visualizing Data
+COMP1942    3   Exploring and Visualizing Data    [Course Review](https://ust.space/review/COMP1942/view/0hs6mYLy7ISjgr1sLCbuRcTIO2gISGY2)
 ECON2103    3   Principles of Microeconomics
 MATH1014    3   Calculus II
 PHYS1112    3   General Physics I with Calculus
@@ -76,7 +76,7 @@ LANG2030    3   Technical Communication I
 COMP3111H   4   Honors Software Engineering
 COMP3211    3   Fundamentals of Artificial Intelligence
 COMP4211    3   Machine Learning
-ECON2123    3   Macroeconomics
+ECON2123    3   Macroeconomics    [Course Review](https://ust.space/review/ECON2123/view/rfEVMBWOXofEL6JipVXhnYwZYKkLWIuy)
 COMP4901K   3   Machine Learning in Natural Language Processing
 FINA2303    3   Financial Management
 ```
@@ -104,7 +104,7 @@ UROP1000    0   Undergraduate Research Opportunities
 COMP4471    3   Deep Learning in Computer Vision
 FINA3203    3   Derivative Securities
 COMP4651    3   Cloud Computing and Big Data Systems
-HUMA3220    3   Modern Chinese Poetry
+HUMA3220    3   Modern Chinese Poetry    [Course Review](https://ust.space/review/HUMA3220/view/81avFoAPIXfCXhAGGqyrC02F9EUqXtyv)
 COMP4981H   2   Final Year Project
 ```
 ### Spring
