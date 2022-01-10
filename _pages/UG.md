@@ -13,7 +13,9 @@ This is the course history during my undergraduate study in the Hong Kong Univer
 Below are displayed in the format of
 `Course Code + Number of Credits + Course Name`
 
-Some of the course reviews are also provided on the USTSPACE website. You need to acquire a UST account to access those content.
+At the end of this page I provided some links to my course reviews on the [USTSPACE](https://ust.space) website. You need to acquire a UST account to access those content.
+
+Since I am currently also a Senior Student Ambassador of HKUST, so feel free to ask me questions related to these courses on the [addmission website](https://join.hkust.edu.hk/meet-our-students).
 
 ## UG Year 1   
 
@@ -21,7 +23,7 @@ Some of the course reviews are also provided on the USTSPACE website. You need t
 
 ### Fall   
 ```angular2html
-COMP1022P   3   Introduction to Computing with Java    [Course Review](https://ust.space/review/COMP1022P/view/TIsgbdMf9H348EIq9trMHqDJliTpes8h)
+COMP1022P   3   Introduction to Computing with Java
 MATH1013    3   Calculus I B
 COMP2711    4   Discrete Mathematical Tools for Computer Science
 ELEC1100    4   Introduction to Electro-Robot Design
@@ -29,7 +31,7 @@ LANG1002S   3   English for University Studies I
 ```
 ### Spring  
 ```angular2html
-COMP1942    3   Exploring and Visualizing Data    [Course Review](https://ust.space/review/COMP1942/view/0hs6mYLy7ISjgr1sLCbuRcTIO2gISGY2)
+COMP1942    3   Exploring and Visualizing Data
 ECON2103    3   Principles of Microeconomics
 MATH1014    3   Calculus II
 PHYS1112    3   General Physics I with Calculus
@@ -76,7 +78,7 @@ LANG2030    3   Technical Communication I
 COMP3111H   4   Honors Software Engineering
 COMP3211    3   Fundamentals of Artificial Intelligence
 COMP4211    3   Machine Learning
-ECON2123    3   Macroeconomics    [Course Review](https://ust.space/review/ECON2123/view/rfEVMBWOXofEL6JipVXhnYwZYKkLWIuy)
+ECON2123    3   Macroeconomics
 COMP4901K   3   Machine Learning in Natural Language Processing
 FINA2303    3   Financial Management
 ```
@@ -104,7 +106,7 @@ UROP1000    0   Undergraduate Research Opportunities
 COMP4471    3   Deep Learning in Computer Vision
 FINA3203    3   Derivative Securities
 COMP4651    3   Cloud Computing and Big Data Systems
-HUMA3220    3   Modern Chinese Poetry    [Course Review](https://ust.space/review/HUMA3220/view/81avFoAPIXfCXhAGGqyrC02F9EUqXtyv)
+HUMA3220    3   Modern Chinese Poetry
 COMP4981H   2   Final Year Project
 ```
 ### Spring
@@ -115,6 +117,15 @@ LANG4030    3   Technical Communication II for CSE, CPEG & DSCT
 COMP6211H   3   Deep Learning in Medical Image Analysis
 ```
 ---
+
+# Course Reviews
+
+Here is the list of my course reviews on [USTSPACE](https://ust.space), You need to be a HKUST member to access these materials.
+
+- COMP1022P&nbsp;&nbsp;Introduction to Computing with Java    [Course Review](https://ust.space/review/COMP1022P/view/TIsgbdMf9H348EIq9trMHqDJliTpes8h)
+- COMP1942&nbsp;&nbsp;&nbsp;Exploring and Visualizing Data    [Course Review](https://ust.space/review/COMP1942/view/0hs6mYLy7ISjgr1sLCbuRcTIO2gISGY2)
+- ECON2123&nbsp;&nbsp;&nbsp;Macroeconomics    [Course Review](https://ust.space/review/ECON2123/view/rfEVMBWOXofEL6JipVXhnYwZYKkLWIuy)
+- HUMA3220&nbsp;&nbsp;&nbsp;Modern Chinese Poetry    [Course Review](https://ust.space/review/HUMA3220/view/81avFoAPIXfCXhAGGqyrC02F9EUqXtyv)
 
 <!-- ## Open-Sourced Course Assignment/Project Repository:
 [COMP4021: Internet Computing](https://github.com/MighTy-Weaver/COMP4021-2020Fall) 
