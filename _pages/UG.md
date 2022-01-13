@@ -15,7 +15,7 @@ Below are displayed in the format of
 
 At the end of this page I provided some links to my course reviews on the [USTSPACE](https://ust.space) website. You need to acquire a UST account to access those content.
 
-Since I am currently also a Senior Student Ambassador of HKUST, so feel free to ask me questions related to these courses on the [addmission website](https://join.hkust.edu.hk/meet-our-students).
+Since I am currently also a Senior Student Ambassador of HKUST, so feel free to ask me questions related to these courses on the [addmission website](https://join.hkust.edu.hk/meet-our-students?user_id=yiduo-124381).
 
 ## UG Year 1   
 
