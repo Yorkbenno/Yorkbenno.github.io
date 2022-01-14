@@ -13,8 +13,8 @@ classes: wide
 ## About me
 ----------------------------
 
-Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student in
-the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer Science. My research interest lies in the field of medical image analysis, machine learning and deep learning.
+Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student at
+the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursuing a bachelor's degree in Computer Science. My research interest lies in the field of medical image analysis, machine learning, and deep learning.
 
 Currently, I am working for our FYP project under the supervision of [Professor Xiaomeng Li](https://xmengli.github.io/) in HKUST.
 
