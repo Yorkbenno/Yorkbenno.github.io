@@ -20,7 +20,7 @@ title                    : "Yiduo YU/York 余亦多"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yiduo YU"
-description              : "Yiduo YU personal website"
+description              : "Yiduo YU is a final Year Undergraduate Student in HKUST majoring in Computer Science and minor in general business"
 url                      : "https://Yorkbenno.github.io/"
 # url                      : "http://127.0.0.1:4000/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
