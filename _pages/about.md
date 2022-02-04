@@ -1,6 +1,6 @@
 ---
 permalink: /about
-title: "Yiduo YU/York"
+title: "Yiduo YU 余亦多 York"
 excerpt: "About me"
 author_profile: true 
 layout: home

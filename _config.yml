@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiduo YU/York 余亦多"
+title                    : "Yiduo YU 余亦多 York"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yiduo YU"
@@ -287,8 +287,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false #true
       read_time: true
       comments: # true
       share: true
       related: true
+      # classes: wide

@@ -54,7 +54,6 @@ UROP1100    1   Undergraduate Research Opportunities Series I
 ACCT2010    3   Principles of Accounting I
 COMP2012H   5   Honors Object-Oriented Programming and Data Structures
 MATH2023    4   Multivariable Calculus
-MATH2033    4   Mathematical Analysis
 MATH2121    4   Linear Algebra
 COMP3711    3   Design and Analysis of Algorithms
 UROP2100    1   Undergraduate Research Opportunities Series II
