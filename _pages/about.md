@@ -11,9 +11,9 @@ layout: home
 
 ## About me
 
-I am currently a student of Master of Computational Data Science at Carnegie Mellon University.
+I am currently a student for the Master of Computational Data Science at Carnegie Mellon University.
 
-I received my Bachelor's degree in Computer Science, with a minor in General Business from [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (First Class Honors + Academic Achievement Medal), where I worked with Prof. Raymond Wong, Prof. Xiaojuan Ma and Prof. Xiaomeng Li. My interests lies in the field of Computer Vision, Medical Image Analysis, and Deep Learning.
+I received my Bachelor's degree in Computer Science, with a minor in General Business from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (First Class Honors + Academic Achievement Medal), where I worked with Prof. Raymond Wong, Prof. Xiaojuan Ma and Prof. Xiaomeng Li. My interests lie in the field of Computer Vision, Medical Image Analysis, and Deep Learning.
 
 <!-- Currently, I am working for our FYP project under the supervision of [Professor Xiaomeng Li](https://xmengli.github.io/) in HKUST. -->
 
