@@ -20,7 +20,7 @@ title                    : "Yiduo YU 余亦多 York"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yiduo YU"
-description              : "Incoming student @ CMU MCDS | Computer Science & Minor General Business @ HKUST"
+description              : "Incoming student @ CMU MCDS, Computer Science & Minor General Business @ HKUST"
 url                      : "https://Yorkbenno.github.io/"
 # url                      : "http://127.0.0.1:4000/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Yiduo YU 余亦多"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming student @ CMU MCDS | Computer Science & Minor General Business @ HKUST"
+  bio              : "Incoming student @ CMU MCDS, Computer Science & Minor General Business @ HKUST"
   location         : "Hong Kong SAR, China"
   # email            : yyubm@connect.ust.hk
   links:
