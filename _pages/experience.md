@@ -17,7 +17,7 @@ Here are some of my non-academic experiences/achievements.
 - I published "The spring breeze beside the West Lake - movie review of 'Sound of Wind'" article on the Film Society semi-annual magazine. *(Dec. 2018)*
 - I was the **Winter Research Assistant** of Professor [Xinlei Li](https://acct.hkust.edu.hk/faculty-and-staff/directory/acxinlei) *(Dec. 2019 - Jan. 2020)*, 
   the main duty was to collect and track the change in lender's information for different companies by reading their 8-K Forms.
-- I am a **Senior Student Ambassador** from *Sep. 2019* till now. Below are some of my sharings and talks as a Student Ambassador:
+- I was a **Senior Student Ambassador** of HKUST from *Sep. 2019 to Jun. 2022*. Below are some of my sharings and talks as a Student Ambassador:
     * Winter Sharing about life in HKUST and instructions for application in Hangzhou No.2 High school. *(Jan. 2019), This event is my motivation to be a Student Ambassador in university.* 
     * School of Engineering’s Representative in HKUST mainland parents sharing session. *(Jan. 2021)*
     * "HKUST with AI" talk introducing AI and HKUST's new interdisciplinary major for Malaysia students and parents. *(Mar. 2021)*
