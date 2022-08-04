@@ -22,7 +22,7 @@ So the main issue here that we could not go that deep is the difficulty of optim
 
 ![image-20220309235518124](../assets/images/Resnet.assets/image-20220309235518124.png)
 
-So they propose a famous skip connection block that turn the learning problem from learning a function `H(x)` into learning the residual function `F(x)`. In this case, `H(x)` = `F(x)` + `x`. 
+So they propose a famous skip connection block that turn the learning problem from learning a function `H(x)` into learning the residual function `F(x)`. In this case, $$ H(x) = F(x) + x $$.
 
 ![image-20220310000208830](../assets/images/Resnet.assets/image-20220310000208830.png)
 
@@ -154,4 +154,3 @@ All in all, these results show that the proposed architecture delivers better fe
 [4] Littwin, E., & Wolf, L. (2016). The loss surface of residual networks: Ensembles and the role of batch normalization. *arXiv preprint arXiv:1611.02525*.
 
 [5] Zagoruyko, S., & Komodakis, N. (2016). Wide residual networks. *arXiv preprint arXiv:1605.07146*.
-
