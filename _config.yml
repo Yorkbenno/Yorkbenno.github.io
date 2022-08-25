@@ -20,7 +20,7 @@ title                    : "Yiduo YU 余亦多 York"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yiduo YU"
-description              : "Incoming student @ CMU MCDS, Computer Science & Minor General Business @ HKUST"
+description              : "MCDS Graduate Student @ CMU, Computer Science @ HKUST, Seeking 2023 Summer SDE Internships"
 url                      : "https://Yorkbenno.github.io/"
 # url                      : "http://127.0.0.1:4000/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Yiduo YU 余亦多"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming student @ CMU MCDS, Computer Science & Minor General Business @ HKUST"
-  location         : "Hong Kong SAR, China"
+  bio              : "MCDS Graduate Student @ CMU, Computer Science @ HKUST, Seeking 2023 Summer SDE Internships"
+  location         : "Pittsburgh, PA"
   # email            : yyubm@connect.ust.hk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yyubm@connect.ust.hk"
+      url: "mailto:yiduoy@andrew.cmu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://Yorkbenno.github.io"
@@ -129,7 +129,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yiduo-york-yu-15139822a/"
+      url: "https://www.linkedin.com/in/yiduo-yu/"
 
 # Site Footer
 footer:

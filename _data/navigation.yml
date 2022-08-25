@@ -7,10 +7,10 @@ main:
     url: /
   - title: "UG Courses"
     url: /course
-  - title: "Research Experience"
-    url: /research/
-  - title: "Other Experience"
-    url: /experience
+  - title: "Professional Experience"
+    url: /experience/
+  - title: "Activities"
+    url: /activities
   - title: "Posts"
     url: /posts
   - title: "CV"

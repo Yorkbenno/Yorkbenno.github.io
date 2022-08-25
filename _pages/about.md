@@ -11,9 +11,9 @@ layout: home
 
 ## About me
 
-I am currently a student for the Master of Computational Data Science at Carnegie Mellon University.
+I am currently a student pursuing my Master’s in Computational Data Science at Carnegie Mellon University. 
 
-I received my Bachelor's degree in Computer Science, with a minor in General Business from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (First Class Honors + Academic Achievement Medal), where I worked with Prof. Raymond Wong, Prof. Xiaojuan Ma and Prof. Xiaomeng Li. My interests lie in the field of Computer Vision, Medical Image Analysis, and Deep Learning.
+I received my Bachelor's degree in Computer Science, with a minor in General Business from the Hong Kong University of Science and Technology (First Class Honors + Academic Achievement Medal), where I worked with Prof. Raymond Wong, Prof. Xiaojuan Ma and Prof. Xiaomeng Li. I love to apply machine learning and data science techniques to production and I have demonstrated my ability both in research works and during my internships. I am actively seeking a 2023 Software Development Internship Role.
 
 <!-- Currently, I am working for our FYP project under the supervision of [Professor Xiaomeng Li](https://xmengli.github.io/) in HKUST. -->
 
@@ -32,13 +32,18 @@ I'm mainly interested in the research of Computer Vision, Medical Image Analysis
 
 ## Education
 
+**1. Carnegie Mellon University [(CMU)](https://www.cmu.edu/)**
+
+- Master of Computational Data Science,  *Sep. 2022 -- May. 2024*
+- CGA: **4.33** / 4.33
+
 **1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Bachelor Degree in [Computer Science](https://www.cse.ust.hk/),  *Sep. 2018 -- Jun. 2022*
+- Bachelor Degree in Computer Science,  *Sep. 2018 -- Jun. 2022*
 - CGA: **4.064** / 4.30
 - MCGA: **4.200** / 4.30
 
-**2. Hangzhou No.2 High School [HZ2HS](http://www.hz2hs.cn/)**
+**2. Hangzhou No.2 High School [(HZ2HS)](http://www.hz2hs.cn/)**
 
 - High School Diploma, *Sep. 2015 -- Jun. 2018*
 
